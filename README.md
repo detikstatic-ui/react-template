@@ -1,6 +1,6 @@
 # React + TypeScript + Vite
 ```js
-npm create vite@latest -- --template detikstatic-ui/react-template
+npx degit detikstatic-ui/react-template <app_name>
 ```
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
